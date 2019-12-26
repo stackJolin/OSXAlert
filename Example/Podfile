@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OSXAlert_Example' do
+  pod 'OSXAlert', :path => '../'
+
+  target 'OSXAlert_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
