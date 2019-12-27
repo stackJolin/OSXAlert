@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'OSXAlert'
-  s.version          = '0.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'A short description of OSXAlert.'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform = :osx
-  s.osx.deployment_target = "10.10"
+  s.osx.deployment_target = "10.13"
 
   s.source_files = 'OSXAlert/Classes/**/*'
 

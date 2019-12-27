@@ -1,0 +1,6 @@
+framework module OSXAlert {
+  umbrella header "OSXAlert-umbrella.h"
+
+  export *
+  module * { export * }
+}

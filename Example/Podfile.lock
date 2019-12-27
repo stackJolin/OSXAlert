@@ -1,0 +1,16 @@
+PODS:
+  - OSXAlert (0.1.0)
+
+DEPENDENCIES:
+  - OSXAlert (from `../`)
+
+EXTERNAL SOURCES:
+  OSXAlert:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OSXAlert: facfe5f5c3fce48e0f637409aa5c60a79852ad39
+
+PODFILE CHECKSUM: 5b72cc69389d277c05b80c357f2d184417718516
+
+COCOAPODS: 1.8.3
